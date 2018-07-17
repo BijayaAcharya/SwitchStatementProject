@@ -26,10 +26,8 @@ namespace SwitchStaments
             // input
             int selection = int.Parse(Console.ReadLine());
 
-
-
-
-            //switch
+            
+            //switch statement
 
             switch(selection)
             {
@@ -52,7 +50,7 @@ namespace SwitchStaments
                     Console.WriteLine("Good choice!");
                     break;
 
-                default:
+                default: // for invalid input
 
                     Console.Beep();
                     Console.WriteLine("Wrong selection!");
