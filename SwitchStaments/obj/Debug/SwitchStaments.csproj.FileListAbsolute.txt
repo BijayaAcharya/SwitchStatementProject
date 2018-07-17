@@ -1,0 +1,7 @@
+c:\users\bijay\source\repos\SwitchStaments\SwitchStaments\bin\Debug\SwitchStaments.exe.config
+c:\users\bijay\source\repos\SwitchStaments\SwitchStaments\bin\Debug\SwitchStaments.exe
+c:\users\bijay\source\repos\SwitchStaments\SwitchStaments\bin\Debug\SwitchStaments.pdb
+c:\users\bijay\source\repos\SwitchStaments\SwitchStaments\obj\Debug\SwitchStaments.csprojAssemblyReference.cache
+c:\users\bijay\source\repos\SwitchStaments\SwitchStaments\obj\Debug\SwitchStaments.csproj.CoreCompileInputs.cache
+c:\users\bijay\source\repos\SwitchStaments\SwitchStaments\obj\Debug\SwitchStaments.exe
+c:\users\bijay\source\repos\SwitchStaments\SwitchStaments\obj\Debug\SwitchStaments.pdb
